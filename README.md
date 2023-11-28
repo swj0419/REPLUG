@@ -138,7 +138,7 @@ python save_logprob_data.py
 ```
 
 
-# LSR finetuning:
+## LSR finetuning:
 ```
 python LSR_finetune/replug_lsr.py       
        --model_config_path $MODEL_CONFIG  \
