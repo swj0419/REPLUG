@@ -1,4 +1,4 @@
-# REPLUG:
+# REPLUG: This includes an original implementation of REPLUG: Retrieval-Augmented Black-Box Language Models
 
 ## QA
 ### Step1: Build datastore file
